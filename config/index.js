@@ -11,7 +11,7 @@ export const config = {
   // 公众号APP_SECRET
   // 建议不要填这里，请使用文档中github secret的方法进行保密配置，保护您的隐私安全。
   // 如果你非要填这里也行。脚本也能运行
-  APP_SECRET: "a1dbea82b7409a3bb2e3d7d3f4ab5fde",
+  APP_SECRET: "56cb063f03661de646f40b472b61bcda",
 
   // 是否给文字设置多彩颜色, 和emoji不兼容
   // 如果您使用了微信测试号的模板中含有emoji表情，请填 false
