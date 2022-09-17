@@ -60,11 +60,11 @@ export const config = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: "老婆0",
+      name: "oud3H5lNqcilebnRhdJzZwjaUWz4",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "",
+      useTemplateId: "41QjTOiQ4OoafXDK4C53vGsqh_X2wt2U28rTNTPSfwM",
       // 所在省份
       province: "河南",
       // 所在城市
@@ -143,7 +143,7 @@ export const config = {
       // 一般都填自己
       name: "oud3H5lNqcilebnRhdJzZwjaUWz4",
       // 自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "",
+      id: "W1Um8QEat-cEx5a67wr1m0PB2qjvmog-9iA4zUxpdNM",
     },
     // 你可以不断按格式往下增加
     // ...
